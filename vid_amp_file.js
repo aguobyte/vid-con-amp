@@ -21,7 +21,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 					{image : 'exercise_ball.jpg'},
 					{image : 'exercise_ball.jpg'},
 					{image : 'exercise_ball.jpg'},
-					{image : 'exercise_ball.jpg'},]
+					{image : 'exercise_ball.jpg'}]
 
 			}, 
 			{
