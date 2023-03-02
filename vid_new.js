@@ -10,7 +10,12 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 				nameForLogging : 'Conducive Exercise', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-				    {image : 'body_measure.jpg'}]
+				    {image : 'body_measure.jpg'},
+				    {image : 'protein_shake.jpg'},
+				    {image : 'weights.jpg'},
+				    {image : 'treadmill.jpg'},
+				    {image : 'kettlebell.jpg'},
+				    {image : 'exercise_ball.jpg'}]
 
 			}, 
 			{
@@ -18,7 +23,9 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 				nameForLogging : 'Non-Conducive Exercise', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-				    {image : 'armchair.jpg'}]
+				    {image : 'armchair.jpg'},
+				    {image : 'bathtub.jpg'},
+				    {image : 'bed.jpg'}]
 			}
 		],
 
@@ -26,7 +33,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 		{
 			nameForLogging : 'examplePrime', //Will be used in the logging
 			//An array of all media objects for this category.
-			mediaArray : [{image : 'armchair.jpg'}, {image : 'armlamp.jpg'}, {image : 'body_measure.jpg'}]
+			mediaArray : [{image : 'armchair.jpg'}, {image : 'armchair.jpg'}, {image : 'body_measure.jpg'}]
 		},
 
 		base_url : {//Where are your images at?
