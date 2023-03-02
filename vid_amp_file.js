@@ -38,7 +38,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 		},
 
 		base_url : {//Where are your images at?
-			image : 'https://github.com/aguobyte/vid-con-amp/images'
+			image : 'https://github.com/aguobyte/vid-con-amp/tree/main/images'
 		}
 	});
 });
