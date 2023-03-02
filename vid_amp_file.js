@@ -10,23 +10,23 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 				nameForLogging : 'Conducive Exercise', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-				    {image : 'images/body_measure.jpg'}, 
-					{image : 'images/dumbells1.png'}, 
-					{image : 'images/exercise_ball.jpg'}, 
-					{image : 'images/kettlebell.jpg'}, 
-					{image : 'images/protein_shake.jpg'}, 
-					{image : 'images/treadmill.jpg'}, 
-					{image : 'images/weights.jpg'}, 
-					{image : 'images/yoga_mat.webp'}]
+				    {image : 'body_measure.jpg'}, 
+					{image : 'dumbells1.png'}, 
+					{image : 'exercise_ball.jpg'}, 
+					{image : 'kettlebell.jpg'}, 
+					{image : 'protein_shake.jpg'}, 
+					{image : 'treadmill.jpg'}, 
+					{image : 'weights.jpg'}, 
+					{image : 'yoga_mat.webp'}]
 
 			}, 
 			{
-				nameForFeedback : 'White people',  //Will be used in the user feedback 
-				nameForLogging : 'White people', //Will be used in the logging
+				nameForFeedback : 'Non-Conducive Exercise',  //Will be used in the user feedback 
+				nameForLogging : 'Non-Conducive Exercise', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-				    {image : 'images/armchair.jpg'}, 
-					{image : 'images/bathtub.jpg'}, 
+				    {image : 'armchair.jpg'}, 
+					{image : 'bathtub.jpg'}, 
 					{image : 'bed.jpg'}, 
 					{image : 'couch.jpg'}, 
 					{image : 'muffin_tin.webp'}, 
@@ -43,7 +43,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 		},
 
 		base_url : {//Where are your images at?
-			image : 'https://github.com/aguobyte/vid-con-amp'
+			image : 'https://github.com/aguobyte/vid-con-amp/images'
 		}
 	});
 });
