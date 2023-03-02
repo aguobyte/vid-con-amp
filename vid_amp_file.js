@@ -15,7 +15,13 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 					{image : 'kettlebell.jpg'}, 
 					{image : 'protein_shake.jpg'}, 
 					{image : 'treadmill.jpg'}, 
-					{image : 'weights.jpg'}]
+					{image : 'weights.jpg'},
+					{image : 'exercise_ball.jpg'},
+					{image : 'exercise_ball.jpg'},
+					{image : 'exercise_ball.jpg'},
+					{image : 'exercise_ball.jpg'},
+					{image : 'exercise_ball.jpg'},
+					{image : 'exercise_ball.jpg'},]
 
 			}, 
 			{
@@ -26,6 +32,14 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 				    {image : 'armchair.jpg'}, 
 					{image : 'bathtub.jpg'}, 
 					{image : 'bed.jpg'}, 
+					{image : 'couch.jpg'},
+					{image : 'couch.jpg'},
+					{image : 'couch.jpg'},
+					{image : 'couch.jpg'},
+					{image : 'couch.jpg'},
+					{image : 'couch.jpg'},
+					{image : 'couch.jpg'},
+					{image : 'couch.jpg'},
 					{image : 'couch.jpg'}]
 			}
 		],
