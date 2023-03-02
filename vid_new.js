@@ -26,7 +26,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 		{
 			nameForLogging : 'examplePrime', //Will be used in the logging
 			//An array of all media objects for this category.
-			mediaArray : [{image : 'ampchair.jpg'}, {image : 'amplamp.jpg'}, {image : 'ampumbrella.jpg'}]
+			mediaArray : [{image : 'armchair.jpg'}, {image : 'armlamp.jpg'}, {image : 'body_measure.jpg'}]
 		},
 
 		base_url : {//Where are your images at?
