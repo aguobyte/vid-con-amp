@@ -57,7 +57,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 					{image : 'hamburger.jpg'},
 					{image : 'ice_cream.jpg'},
 					{image : 'chocolate.jpg'}]
-			},
+			}
 		],
 
 		examplePrimeStimulus : 
@@ -68,7 +68,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 		},
 
 		base_url : {//Where are your images at?
-			image : 'https://aguobyte.github.io/vid-con-amp/images'
+			image : 'https://aguobyte.github.io/vid-con-amp/images/'
 		}
 	});
 });
