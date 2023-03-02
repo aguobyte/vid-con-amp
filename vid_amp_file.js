@@ -11,13 +11,11 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 				//An array of all media objects for this category.
 				mediaArray : [
 				    {image : 'body_measure.jpg'}, 
-					{image : 'dumbells1.png'}, 
 					{image : 'exercise_ball.jpg'}, 
 					{image : 'kettlebell.jpg'}, 
 					{image : 'protein_shake.jpg'}, 
 					{image : 'treadmill.jpg'}, 
-					{image : 'weights.jpg'}, 
-					{image : 'yoga_mat.webp'}]
+					{image : 'weights.jpg'}]
 
 			}, 
 			{
@@ -28,10 +26,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 				    {image : 'armchair.jpg'}, 
 					{image : 'bathtub.jpg'}, 
 					{image : 'bed.jpg'}, 
-					{image : 'couch.jpg'}, 
-					{image : 'muffin_tin.webp'}, 
-					{image : 'remote_control.webp'}, 
-					{image : 'tv.png'}]
+					{image : 'couch.jpg'}]
 			}
 		],
 
