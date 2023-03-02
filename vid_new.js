@@ -12,10 +12,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 				mediaArray : [
 				    {image : 'body_measure.jpg'},
 				    {image : 'protein_shake.jpg'},
-				    {image : 'weights.jpg'},
-				    {image : 'treadmill.jpg'},
-				    {image : 'kettlebell.jpg'},
-				    {image : 'exercise_ball.jpg'}]
+				    {image : 'weights.jpg'}]
 
 			}, 
 			{
@@ -33,7 +30,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 		{
 			nameForLogging : 'examplePrime', //Will be used in the logging
 			//An array of all media objects for this category.
-			mediaArray : [{image : 'armchair.jpg'}, {image : 'armchair.jpg'}, {image : 'body_measure.jpg'}]
+			mediaArray : [{image : 'exercise_ball.jpg'}, {image : 'kettlebell.jpg'}, {image : 'treadmill.jpg'}]
 		},
 
 		base_url : {//Where are your images at?
