@@ -11,16 +11,6 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 				//An array of all media objects for this category.
 				mediaArray : [
 				    {image : 'body_measure.jpg'}, 
-					{image : 'exercise_ball.jpg'}, 
-					{image : 'kettlebell.jpg'}, 
-					{image : 'protein_shake.jpg'}, 
-					{image : 'treadmill.jpg'}, 
-					{image : 'weights.jpg'},
-					{image : 'exercise_ball.jpg'},
-					{image : 'exercise_ball.jpg'},
-					{image : 'exercise_ball.jpg'},
-					{image : 'exercise_ball.jpg'},
-					{image : 'exercise_ball.jpg'},
 					{image : 'exercise_ball.jpg'}]
 
 			}, 
@@ -29,18 +19,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 				nameForLogging : 'Non-Conducive Exercise', //Will be used in the logging
 				//An array of all media objects for this category.
 				mediaArray : [
-				    {image : 'armchair.jpg'}, 
-					{image : 'bathtub.jpg'}, 
-					{image : 'bed.jpg'}, 
-					{image : 'couch.jpg'},
-					{image : 'couch.jpg'},
-					{image : 'couch.jpg'},
-					{image : 'couch.jpg'},
-					{image : 'couch.jpg'},
-					{image : 'couch.jpg'},
-					{image : 'couch.jpg'},
-					{image : 'couch.jpg'},
-					{image : 'couch.jpg'}]
+				    {image : 'armchair.jpg'}]
 			}
 		],
 
