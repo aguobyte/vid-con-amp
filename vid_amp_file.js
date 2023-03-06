@@ -57,6 +57,19 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 					{image : 'hamburger.jpg'},
 					{image : 'ice_cream.jpg'},
 					{image : 'chocolate.jpg'}]
+			},
+			{
+				nameForFeedback : 'Neutral',  //Will be used in the user feedback 
+				nameForLogging : 'Neutral', //Will be used in the logging
+				//An array of all media objects for this category.
+				mediaArray : [
+				    {image : 'book2.jpg'}, 
+					{image : 'calculator.jpg'}, 
+					{image : 'pencil_sharpner.jpg'}, 
+					{image : 'folders.jpg'},
+					{image : 'keyboard.jpg'},
+					{image : 'notebook.jpg'},
+					{image : 'Pen.jpg'}]
 			}
 		],
 
