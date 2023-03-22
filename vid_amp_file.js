@@ -28,7 +28,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 					{image : 'bathtub.jpg'}, 
 					{image : 'bed.jpg'}, 
 					{image : 'couch.jpg'},
-					{image : 'muffin_tin.jpg'},
+					{image : 'hammock.jpg'},
 					{image : 'tv.jpg'},
 					{image : 'remote_control.jpg'}]
 			}, 
